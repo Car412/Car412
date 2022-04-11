@@ -1,5 +1,7 @@
 Hola 👋
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 Mi nombre es Carla Defazy :sparkles:
 
 Actualmente me encuentro cursando la última etapa del Bootcamp en soyHenry, trabajando en un e-commerce para el Proyecto Grupal final :rocket:
