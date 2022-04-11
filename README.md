@@ -22,7 +22,7 @@ He adquirido conocimientos en:
 
 Siempre dispuesta a seguir aprendiendo y llevarlo a la práctica  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-Si te interesa contactarme podes hacerlo a través de:
+Si te interesa contactarme, podes hacerlo a través de:
 
 :calling: Teléfono: +54 9 11 7365 7125
 
