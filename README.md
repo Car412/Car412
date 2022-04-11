@@ -1,6 +1,6 @@
 Hola 👋
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 Mi nombre es Carla Defazy :sparkles:
 
@@ -21,7 +21,7 @@ He adquirido conocimientos en:
  SCRUM methodologies |
  Github |
 
-Siempre dispuesta a seguir aprendiendo y llevarlo a la práctica :raised_hands:
+Siempre dispuesta a seguir aprendiendo y llevarlo a la práctica ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 Si te interesa contactarme podes hacerlo a través de:
 
