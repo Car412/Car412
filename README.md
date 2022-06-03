@@ -3,7 +3,7 @@ Hola 👋
 
 Mi nombre es Carla Defazy :sparkles:
 
-Actualmente me encuentro cursando la última etapa del Bootcamp en soyHenry, trabajando en un e-commerce para el Proyecto Grupal final :rocket:
+Soy Desarrolladora Web Full-Stack. De preferencia, elijo desempeñarme como Front End, aunque no descarto la posibilidad de seguir incursionando en el ámbito del Back End :rocket:
 
 He adquirido conocimientos en:
 
